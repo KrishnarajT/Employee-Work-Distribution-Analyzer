@@ -2,7 +2,8 @@
 A script to make graphs by analyzing work done by employees in a Real company with limited control paramaters. 
 
 # Graphs
-
+![](https://github.com/KrishnarajT/Employee-Work-Distribution-Analyzer/blob/main/Employee%20Graphs/Employee%20Graph%20-%201.0.png)
+![](https://github.com/KrishnarajT/Employee-Work-Distribution-Analyzer/blob/main/Employee%20Graphs/Employee%20Graph%20-%202.0.png)
 
 # Installation
 
