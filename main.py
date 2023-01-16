@@ -155,7 +155,7 @@ def main():
             start,
             EMPLOYEES_PER_GRAPH
         )
-
-os.mkdir(os.path.join(os.getcwd(), "Employee Graphs"))
+if(not os.path.exists(os.path.join(os.getcwd(), "Employee Graphs"))):
+    os.mkdir(os.path.join(os.getcwd(), "Employee Graphs"))
 
 main()
